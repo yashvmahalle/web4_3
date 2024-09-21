@@ -30,7 +30,7 @@ The form includes the following fields:
 
 2. Navigate to the project directory:
     ```bash
-    cd your-repo-name
+    cd web4_3
     ```
 
 3. Open `index.html` in your browser to view and interact with the feedback form.
